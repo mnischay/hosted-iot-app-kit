@@ -70,7 +70,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.0.0",
     "@types/react": "^18.2.21",
-    "@types/react-dom": "^18.2.5",
+    "@types/react-dom": "^18.2.7",
     "@types/styled-components": "^5.1.26",
     "@types/uuid": "^9.0.2",
     "eslint-config-iot-app-kit": "7.1.0",
