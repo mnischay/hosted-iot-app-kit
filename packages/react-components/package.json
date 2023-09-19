@@ -75,7 +75,7 @@
     "@types/styled-components": "^5.1.26",
     "@types/uuid": "^9.0.2",
     "@types/video.js": "^7.3.52",
-    "babel-plugin-formatjs": "10.5.3",
+    "babel-plugin-formatjs": "10.5.6",
     "copyfiles": "^2.4.1",
     "cytoscape": "^3.25.0",
     "eslint-config-iot-app-kit": "7.1.0",
