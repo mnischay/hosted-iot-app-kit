@@ -71,7 +71,7 @@
     "@types/react": "^18.2.21",
     "@types/react-cytoscapejs": "^1.2.2",
     "@types/react-dom": "^18.2.7",
-    "@types/react-resizable": "^3.0.4",
+    "@types/react-resizable": "^3.0.5",
     "@types/styled-components": "^5.1.26",
     "@types/uuid": "^9.0.2",
     "@types/video.js": "^7.3.52",
