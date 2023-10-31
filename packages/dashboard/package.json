@@ -59,7 +59,7 @@
     "@types/is-hotkey": "^0.1.7",
     "@types/lodash": "^4.14.195",
     "@types/node": "^18.16.18",
-    "@types/react": "^18.2.21",
+    "@types/react": "^18.2.33",
     "@types/react-dom": "^18.2.7",
     "css-loader": "6.8.1",
     "dotenv": "^16.3.1",
