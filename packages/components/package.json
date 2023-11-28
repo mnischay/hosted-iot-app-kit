@@ -59,7 +59,7 @@
     "@awsui/design-tokens": "^3.0.52",
     "@iot-app-kit/core": "7.1.0",
     "@iot-app-kit/related-table": "7.1.0",
-    "@stencil/core": "^2.7.0",
+    "@stencil/core": "^2.22.3",
     "@synchro-charts/core": "7.2.0",
     "styled-components": "^5.3.11"
   },
