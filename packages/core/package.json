@@ -61,7 +61,7 @@
   "devDependencies": {
     "@iot-app-kit/jest-config": "7.1.0",
     "@iot-app-kit/ts-config": "7.1.0",
-    "@types/d3-array": "^3.0.8",
+    "@types/d3-array": "^3.2.1",
     "@types/jest": "^29.4.0",
     "@types/uuid": "^9.0.6",
     "eslint-config-iot-app-kit": "7.1.0",
