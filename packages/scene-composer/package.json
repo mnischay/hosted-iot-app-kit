@@ -132,7 +132,7 @@
     "@awsui/collection-hooks": "^1.0.64",
     "@awsui/components-react": "^3.0.944",
     "@awsui/design-tokens": "^3.0.52",
-    "@awsui/global-styles": "^1.0.20",
+    "@awsui/global-styles": "^1.0.22",
     "@formatjs/ts-transformer": "3.13.9",
     "@iot-app-kit/core": "7.1.0",
     "@iot-app-kit/react-components": "7.1.0",
