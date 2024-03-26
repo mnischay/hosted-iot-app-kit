@@ -108,7 +108,7 @@
     "jest": "^27.5.1",
     "jest-coverage-ratchet": "^0.2.3",
     "jest-simple-dot-reporter": "^1.0.5",
-    "jest-styled-components": "^7.0.0",
+    "jest-styled-components": "^7.2.0",
     "lodash": "^4.17.21",
     "nodemon": "^2.0.22",
     "npm-watch": "^0.11.0",
