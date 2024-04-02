@@ -38,7 +38,7 @@
     "@iot-app-kit/jest-config": "7.1.0",
     "@iot-app-kit/testing-util": "7.1.0",
     "@iot-app-kit/ts-config": "7.1.0",
-    "@reduxjs/toolkit": "^1.9.5",
+    "@reduxjs/toolkit": "^1.9.7",
     "@rollup/plugin-commonjs": "^24.1.0",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "15.2.3",
