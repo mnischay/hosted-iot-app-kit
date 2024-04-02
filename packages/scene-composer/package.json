@@ -77,7 +77,7 @@
     "@babel/preset-env": "^7.23.8",
     "@babel/preset-react": "^7.22.15",
     "@babel/runtime": "^7.24.0",
-    "@formatjs/cli": "6.2.1",
+    "@formatjs/cli": "6.2.9",
     "@react-spring/three": "^9.7.3",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-links": "^6.5.16",
