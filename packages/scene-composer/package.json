@@ -139,7 +139,7 @@
     "@iot-app-kit/related-table": "7.1.0",
     "@iot-app-kit/source-iottwinmaker": "7.1.0",
     "@matterport/r3f": "^0.2.7",
-    "@matterport/webcomponent": "^0.1.37",
+    "@matterport/webcomponent": "^0.1.39",
     "@react-three/drei": "9.56.27",
     "@react-three/fiber": "^8.13.3",
     "@react-three/postprocessing": "2.6.2",
