@@ -60,7 +60,7 @@
     "@types/lodash": "^4.14.202",
     "@types/node": "^18.16.18",
     "@types/react": "^18.2.36",
-    "@types/react-dom": "^18.2.18",
+    "@types/react-dom": "^18.2.24",
     "css-loader": "6.8.1",
     "dotenv": "^16.4.5",
     "eslint-config-iot-app-kit": "7.1.0",
