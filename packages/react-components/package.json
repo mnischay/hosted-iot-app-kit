@@ -74,7 +74,7 @@
     "@types/react-resizable": "^3.0.5",
     "@types/styled-components": "^5.1.26",
     "@types/uuid": "^9.0.6",
-    "@types/video.js": "^7.3.52",
+    "@types/video.js": "^7.3.57",
     "babel-plugin-formatjs": "10.5.12",
     "copyfiles": "^2.4.1",
     "cytoscape": "^3.28.1",
