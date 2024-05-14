@@ -60,7 +60,7 @@
   "devDependencies": {
     "@awsui/collection-hooks": "^1.0.64",
     "@awsui/components-react": "^3.0.1143",
-    "@awsui/design-tokens": "^3.0.63",
+    "@awsui/design-tokens": "^3.0.65",
     "@iot-app-kit/jest-config": "7.1.0",
     "@iot-app-kit/ts-config": "7.1.0",
     "@storybook/addon-essentials": "^6.5.16",
