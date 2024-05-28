@@ -13,7 +13,7 @@
     "@iot-app-kit/source-iottwinmaker": "*",
     "@iot-app-kit/table": "*",
     "react": "^18.3.1",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-router-dom": "^6.23.1",
     "web-vitals": "^3.5.2",
     "zustand": "^3.7.2"
@@ -50,7 +50,7 @@
     "@types/jest": "^27.5.2",
     "@types/node": "^18.16.18",
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.2.24",
+    "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.2.1",
     "adjust-sourcemap-loader": "^5.0.0",
     "node-polyfill-webpack-plugin": "^2.0.1",
