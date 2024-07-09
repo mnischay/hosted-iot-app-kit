@@ -147,7 +147,7 @@
     "@tweenjs/tween.js": "^20.0.3",
     "3d-tiles-renderer": "^0.3.16",
     "arraybuffer-to-string": "1.0.2",
-    "debug": "^4.3.4",
+    "debug": "^4.3.5",
     "immer": "^9.0.21",
     "is-absolute-url": "^4.0.1",
     "jexl": "^2.3.0",
