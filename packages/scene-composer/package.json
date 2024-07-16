@@ -122,7 +122,7 @@
     "rimraf": "^5.0.7",
     "sass": "^1.77.4",
     "sass-loader": "^7.3.1",
-    "svglint": "^2.6.0",
+    "svglint": "^2.7.1",
     "ts-jest": "^27.0.4",
     "ts-patch": "^2.1.0",
     "ts-transform-react-intl": "^0.4.1",
