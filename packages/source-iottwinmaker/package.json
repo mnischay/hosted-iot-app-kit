@@ -50,7 +50,7 @@
     "pack": "npm pack"
   },
   "dependencies": {
-    "@aws-sdk/client-iotsitewise": "3.454.0",
+    "@aws-sdk/client-iotsitewise": "3.639.0",
     "@aws-sdk/client-iottwinmaker": "3.632.0",
     "@aws-sdk/client-kinesis-video": "3.600.0",
     "@aws-sdk/client-kinesis-video-archived-media": "3.632.0",
