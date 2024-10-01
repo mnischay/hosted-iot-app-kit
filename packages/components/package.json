@@ -56,7 +56,7 @@
   "dependencies": {
     "@awsui/collection-hooks": "^1.0.80",
     "@awsui/components-react": "^3.0.1271",
-    "@awsui/design-tokens": "^3.0.72",
+    "@awsui/design-tokens": "^3.0.74",
     "@iot-app-kit/core": "7.1.0",
     "@iot-app-kit/related-table": "7.1.0",
     "@stencil/core": "^2.22.3",
