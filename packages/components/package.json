@@ -70,7 +70,7 @@
     "@stencil/router": "^1.0.1",
     "@types/jest": "^27.0.3",
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
+    "@types/react-dom": "^18.3.1",
     "@types/uuid": "^9.0.6",
     "eslint-config-iot-app-kit": "7.1.0",
     "flush-promises": "^1.0.2",
