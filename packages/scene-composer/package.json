@@ -73,7 +73,7 @@
   },
   "devDependencies": {
     "@aws-sdk/credential-providers": "3.679.0",
-    "@awsui/jest-preset": "^2.0.40",
+    "@awsui/jest-preset": "^2.0.44",
     "@babel/preset-env": "^7.25.4",
     "@babel/preset-react": "^7.25.9",
     "@babel/runtime": "^7.26.0",
