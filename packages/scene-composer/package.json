@@ -75,7 +75,7 @@
     "@aws-sdk/credential-providers": "3.713.0",
     "@awsui/jest-preset": "^2.0.44",
     "@babel/preset-env": "^7.26.0",
-    "@babel/preset-react": "^7.25.9",
+    "@babel/preset-react": "^7.26.3",
     "@babel/runtime": "^7.26.0",
     "@formatjs/cli": "6.3.14",
     "@react-spring/three": "^9.7.5",
