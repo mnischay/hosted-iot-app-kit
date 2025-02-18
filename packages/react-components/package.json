@@ -113,7 +113,7 @@
     "react-use": "17.5.1",
     "styled-components": "^5.3.11",
     "uuid": "^9.0.1",
-    "video.js": "8.18.1",
+    "video.js": "8.21.0",
     "zustand": "^4.3.9"
   },
   "peerDependencies": {
