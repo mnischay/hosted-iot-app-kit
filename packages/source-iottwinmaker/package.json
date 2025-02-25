@@ -60,7 +60,7 @@
     "@iot-app-kit/core": "7.1.0",
     "@tanstack/query-core": "^4.35.7",
     "lodash": "^4.17.21",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.2"
   },
   "devDependencies": {
     "@aws-sdk/types": "^3.664.0",
