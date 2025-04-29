@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-iot-events": "3.798.0",
-    "@aws-sdk/client-iotsitewise": "3.782.0"
+    "@aws-sdk/client-iotsitewise": "3.798.0"
   },
   "devDependencies": {
     "@aws-sdk/types": "^3.664.0"
