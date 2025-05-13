@@ -77,7 +77,7 @@
     "@types/video.js": "^7.3.58",
     "babel-plugin-formatjs": "10.5.37",
     "copyfiles": "^2.4.1",
-    "cytoscape": "^3.31.2",
+    "cytoscape": "^3.32.0",
     "eslint-config-iot-app-kit": "7.1.0",
     "flush-promises": "^1.0.2",
     "jest": "^27.5.1",
