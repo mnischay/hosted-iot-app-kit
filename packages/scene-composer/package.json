@@ -131,7 +131,7 @@
   "dependencies": {
     "@awsui/collection-hooks": "^1.0.80",
     "@awsui/components-react": "^3.0.1479",
-    "@awsui/design-tokens": "^3.0.85",
+    "@awsui/design-tokens": "^3.0.86",
     "@awsui/global-styles": "^1.0.25",
     "@formatjs/ts-transformer": "3.13.27",
     "@iot-app-kit/core": "7.1.0",
