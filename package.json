@@ -39,7 +39,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-conventional": "^17.8.1",
-    "@playwright/test": "^1.52.0",
+    "@playwright/test": "^1.54.1",
     "@swc/core": "^1.11.24",
     "@swc/jest": "^0.2.38",
     "@testing-library/dom": "^9.3.4",
