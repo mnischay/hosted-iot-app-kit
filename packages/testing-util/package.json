@@ -6,6 +6,6 @@
   "dependencies": {
     "@iot-app-kit/core": "7.1.0",
     "@aws-sdk/client-iot-events": "3.864.0",
-    "@aws-sdk/client-iotsitewise": "3.830.0"
+    "@aws-sdk/client-iotsitewise": "3.864.0"
   }
 }
