@@ -76,7 +76,7 @@
     "@awsui/jest-preset": "^2.0.48",
     "@babel/preset-env": "^7.27.2",
     "@babel/preset-react": "^7.27.1",
-    "@babel/runtime": "^7.27.6",
+    "@babel/runtime": "^7.28.3",
     "@formatjs/cli": "6.7.2",
     "@react-spring/three": "^9.7.5",
     "@storybook/addon-essentials": "^6.5.16",
