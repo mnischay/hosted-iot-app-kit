@@ -130,7 +130,7 @@
   },
   "dependencies": {
     "@awsui/collection-hooks": "^1.0.104",
-    "@awsui/components-react": "^3.0.1563",
+    "@awsui/components-react": "^3.0.1628",
     "@awsui/design-tokens": "^3.0.87",
     "@awsui/global-styles": "^1.0.25",
     "@formatjs/ts-transformer": "3.14.0",
