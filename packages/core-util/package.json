@@ -27,6 +27,6 @@
     "@aws-sdk/client-iotsitewise": "3.864.0"
   },
   "devDependencies": {
-    "@aws-sdk/types": "^3.840.0"
+    "@aws-sdk/types": "^3.862.0"
   }
 }
