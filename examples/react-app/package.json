@@ -57,7 +57,7 @@
     "nodemon": "^2.0.22",
     "postcss-initial": "^4.0.1",
     "rollup-plugin-node-polyfills": "^0.2.1",
-    "sass": "^1.91.0",
+    "sass": "^1.92.1",
     "typescript": "^4.8.3",
     "vite": "^4.5.14"
   }
