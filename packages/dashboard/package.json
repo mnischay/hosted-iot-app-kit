@@ -95,7 +95,7 @@
     "@aws-sdk/client-iot-events": "3.888.0",
     "@aws-sdk/client-iotsitewise": "3.888.0",
     "@cloudscape-design/collection-hooks": "^1.0.74",
-    "@cloudscape-design/components": "^3.0.1091",
+    "@cloudscape-design/components": "^3.0.1095",
     "@cloudscape-design/design-tokens": "^3.0.60",
     "@cloudscape-design/global-styles": "^1.0.45",
     "@iot-app-kit/charts-core": "^2.1.3",
