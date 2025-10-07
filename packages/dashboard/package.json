@@ -94,7 +94,7 @@
   "dependencies": {
     "@aws-sdk/client-iot-events": "3.901.0",
     "@aws-sdk/client-iotsitewise": "3.901.0",
-    "@cloudscape-design/collection-hooks": "^1.0.74",
+    "@cloudscape-design/collection-hooks": "^1.0.76",
     "@cloudscape-design/components": "^3.0.1105",
     "@cloudscape-design/design-tokens": "^3.0.61",
     "@cloudscape-design/global-styles": "^1.0.46",
