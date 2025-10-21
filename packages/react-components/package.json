@@ -69,7 +69,7 @@
     "@types/jest": "^29.4.4",
     "@types/lodash.omitby": "^4.6.9",
     "@types/react": "^18.3.3",
-    "@types/react-cytoscapejs": "^1.2.5",
+    "@types/react-cytoscapejs": "^1.2.6",
     "@types/react-dom": "^18.3.1",
     "@types/react-resizable": "^3.0.7",
     "@types/styled-components": "^5.1.26",
