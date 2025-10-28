@@ -37,7 +37,7 @@
     "package-mac": "pkg . --targets node16-macos-x64 --output tmdt_local"
   },
   "devDependencies": {
-    "@types/node": "^18.19.127",
+    "@types/node": "^18.19.130",
     "@types/prompts": "^2.4.9",
     "@types/yargs": "^17.0.33",
     "aws-sdk-client-mock": "^2.1.1",
