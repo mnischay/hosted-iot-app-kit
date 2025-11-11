@@ -58,7 +58,7 @@
     "styled-components": "^5"
   },
   "devDependencies": {
-    "@awsui/collection-hooks": "^1.0.106",
+    "@awsui/collection-hooks": "^1.0.107",
     "@awsui/components-react": "^3.0.1678",
     "@awsui/design-tokens": "^3.0.90",
     "@iot-app-kit/jest-config": "7.1.0",

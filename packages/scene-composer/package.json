@@ -129,7 +129,7 @@
     "webpack": "^5.102.1"
   },
   "dependencies": {
-    "@awsui/collection-hooks": "^1.0.106",
+    "@awsui/collection-hooks": "^1.0.107",
     "@awsui/components-react": "^3.0.1678",
     "@awsui/design-tokens": "^3.0.90",
     "@awsui/global-styles": "^1.0.25",
