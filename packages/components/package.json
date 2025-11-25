@@ -54,7 +54,7 @@
     "react-dom": "^18"
   },
   "dependencies": {
-    "@awsui/collection-hooks": "^1.0.107",
+    "@awsui/collection-hooks": "^1.0.108",
     "@awsui/components-react": "^3.0.1693",
     "@awsui/design-tokens": "^3.0.92",
     "@iot-app-kit/core": "7.1.0",
