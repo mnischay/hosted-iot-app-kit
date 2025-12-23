@@ -72,7 +72,7 @@
     "react-intl": "^6"
   },
   "devDependencies": {
-    "@aws-sdk/credential-providers": "3.940.0",
+    "@aws-sdk/credential-providers": "3.957.0",
     "@awsui/jest-preset": "^2.0.50",
     "@babel/preset-env": "^7.28.5",
     "@babel/preset-react": "^7.28.5",
