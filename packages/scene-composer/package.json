@@ -93,7 +93,7 @@
     "@types/debug": "^4.1.12",
     "@types/jest": "^27.4.1",
     "@types/jexl": "^2.3.4",
-    "@types/lodash": "^4.17.21",
+    "@types/lodash": "^4.17.23",
     "@types/node": "^18.19.130",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.1",
