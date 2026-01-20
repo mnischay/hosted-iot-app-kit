@@ -40,7 +40,7 @@
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-conventional": "^17.8.1",
     "@playwright/test": "^1.57.0",
-    "@swc/core": "^1.15.8",
+    "@swc/core": "^1.15.10",
     "@swc/jest": "^0.2.39",
     "@testing-library/dom": "^9.3.4",
     "@testing-library/user-event": "^14.6.1",
