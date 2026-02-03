@@ -50,7 +50,7 @@
     "@storybook/manager-webpack5": "^6.5.16",
     "@storybook/react": "^6.5.16",
     "@storybook/testing-library": "^0.2.2",
-    "@tanstack/eslint-plugin-query": "^4.39.1",
+    "@tanstack/eslint-plugin-query": "^4.43.0",
     "@tanstack/react-query-devtools": "^4.42.0",
     "@testing-library/dom": "^9.3.4",
     "@testing-library/jest-dom": "^5.17.0",
