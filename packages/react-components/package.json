@@ -91,7 +91,7 @@
   "dependencies": {
     "@cloudscape-design/collection-hooks": "^1.0.82",
     "@cloudscape-design/components": "^3.0.1204",
-    "@cloudscape-design/design-tokens": "^3.0.67",
+    "@cloudscape-design/design-tokens": "^3.0.70",
     "@iot-app-kit/charts": "^2.1.3",
     "@iot-app-kit/charts-core": "^2.1.3",
     "@iot-app-kit/components": "7.1.0",
