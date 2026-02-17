@@ -59,7 +59,7 @@
     "@aws-sdk/url-parser": "3.374.0",
     "@iot-app-kit/core": "7.1.0",
     "@tanstack/query-core": "^4.43.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "rxjs": "^7.8.2"
   },
   "devDependencies": {
