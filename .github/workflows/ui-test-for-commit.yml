@@ -30,13 +30,13 @@ jobs:
       - name: test UI
         run:
           npx turbo run test:ui --filter=[HEAD~1]
-      - uses: actions/upload-artifact@v6
+      - uses: actions/upload-artifact@v7
         if: failure()
         with:
           name: Playwright failed test-results
           path: packages/**/test-results
           retention-days: 30
-      - uses: actions/upload-artifact@v6
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: playwright-report
